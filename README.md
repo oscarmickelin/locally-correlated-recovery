@@ -34,3 +34,5 @@ solve_each_slice_twosided.m - solves one iteration of AX^T - XA^T, where X is a 
 solve_each_slice_second_twosided.m - solves one iteration of AX - X^TA^T, where X is a matrix with band structure
 
 jennrich.m - Implements Jennrich's algorithm for orthogonally decomposable tensors
+
+calc_stop.m - Calculates the relative improvement between current iterate Xs and the previous iterate Xsprev, for elements contained in bad_rows
