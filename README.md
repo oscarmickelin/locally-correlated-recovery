@@ -32,3 +32,5 @@ solve_sub_slice_twosided.m - Updates one matrix X_num in step 2 of the algorithm
 solve_each_slice_twosided.m - solves one iteration of AX^T - XA^T, where X is a matrix with structure band-diagonal + cross
 
 solve_each_slice_second_twosided.m - solves one iteration of AX - X^TA^T, where X is a matrix with band structure
+
+jennrich.m - Implements Jennrich's algorithm for orthogonally decomposable tensors
