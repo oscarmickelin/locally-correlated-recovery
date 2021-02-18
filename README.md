@@ -1,5 +1,6 @@
 The following files accompany the paper
 
+The code requires the Tensor Toolbox (https://www.tensortoolbox.org/) to be installed.
 
 ## Files:
 ### Example Files:
