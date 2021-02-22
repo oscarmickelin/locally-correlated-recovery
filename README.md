@@ -1,4 +1,4 @@
-The following files accompany the paper
+The following files accompany the paper https://arxiv.org/abs/2102.09661
 
 The code requires the Tensor Toolbox (https://www.tensortoolbox.org/) to be installed.
 
